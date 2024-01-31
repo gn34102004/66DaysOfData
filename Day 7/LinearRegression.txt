@@ -1,0 +1,15 @@
+Hi Everyone,
+
+Day 7 of my #66DaysOfData challenge 
+
+Today I have learnt about Linear Regression.
+
+It is one of the algorithm which comes under Supervised Learning. It provides relationship between an independent variable and a dependent variable to predict the outcome of future events.
+
+Best Fit line- The line that tries to minimize the error(distance) between y^(the points which you find on best fit line) and y(actual points). 
+
+The formula is y = mx + c
+
+
+
+Convergence Theorem- The α(alpha) value must be vey small otherwise it wouldn't reach the Global minimum and keep bouncing.
