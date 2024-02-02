@@ -1,0 +1,24 @@
+Hi Everyone,
+
+Day 9 of #66DayOfData challenge 
+
+Today I have studied the concept of 
+
+1) R^2 and Adjusted R^2
+
+-> R^2 : It is used to check the goodness of the best fit line. The value of R^2 increases with the increase of independent feature. If the value is <0 then it is worser than the average best fit line.
+
+-> Adjusted R^2 : It penalizes attribute that are not correlated which makes the value to Decrease. If the attribute is correlated the value of adjusted R^2 increases(0 to 1), which is good for best fit line.
+
+2) Bias and variance
+
+-> Bias : Error of the training data.
+
+-> Variance : Error of the testing data.
+
+High Bias, High Variance = Underfitting
+
+Low Bias, High Variance = Overfitting
+
+Low Bias, Low Variance = Generalized Model
+
