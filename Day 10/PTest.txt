@@ -1,0 +1,26 @@
+Hi Everyone,
+
+Day 10 of #66DaysOfData challenge
+
+Today I have learnt about P Value and Hypothesis Testing.
+
+1) P Value - It is a probability for the "Null Hypothesis" to be true.
+
+It is also known as Significance Value and denoted by α(alpha).
+
+-> Null Hypothesis - It treats everything same or equal.
+
+-> Alternate Hypothesis - There is a difference.
+
+2) Hypothesis Testing - Depending on P value the Hypothesis Testing is done in several dataset. If P<=0.05 the Null Hypothesis is rejected and Alternate Hypothesis becomes True for the datasets.
+
+-> One Sample Proportion Test - If only One Categorical Feature is there.
+
+-> Chi Square Test - Two Categorical Feature is there.
+
+-> T Test - One Continous Variable along with Categorical Feature.
+
+-> Correlation - Two Continous Variable are present.
+
+-> Anova Test - If there is Continous Variable and a Categorical Variable present in which, the Categorical Variable must have more than Two Features.
+
