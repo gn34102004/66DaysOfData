@@ -1,3 +1,29 @@
+Hi Everyone
+
+Day 11 of #66DaysofData challenge
+
+Today I have studied the concept of 
+
+-> Variance - is a measure of how data points vary from the mean,
+
+-> Standard Deviation - It is the square root of the variance.
+
+-> Covariance - It measures the total variation of two random variables from their expected values. The drawback is it can only measure the directional relationship between two variables, and can't measure the strength.
+
+-> Pearson Correlation Coefficient - It is the most common way of measuring a linear correlation. It can measure strength along with the direction of relationship. The valur ranges from [-1,1]. 
+
+-> Spearman's Rank Correlation Coefficient - It is the same as Pearson, but as it calculate with the outliers certain condition must be followed. 
+
+- We are supposed to sort out the two column in ascending order.
+
+- Next we need to add two more column by ranking them. 
+
+- In next column comes the difference in the rank of the two column created.
+
+- The last column is the square of the difference of the rank, which is the di^2.
+
+
+
 Hi Everyone,
 
 Day 10 of #66DaysOfData challenge
