@@ -1,0 +1,15 @@
+Hi Everyone
+
+Day 13 of #66DaysOfData challenge
+
+Today I have learnt about Ridge and Lasso Regression Indepth Intuition
+
+-> Lasso - It helps in reducing the overfitting by introducing a parameter called λ(lamda). 
+It tries to penalize the best line by moving towards 0. The λ value is choosen using Cross Validation and this technique is also used for Feature Selection. 
+The formula is cost function * λ(slope)^2.
+
+-> Ridge - This is same as Lasso with slight difference in formula. 
+Here the best line move nearer to 0. 
+The formula is cost function * λ|slope|.
+
+Here the cost function states the linear regression formula.
