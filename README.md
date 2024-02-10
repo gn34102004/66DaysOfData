@@ -1,5 +1,24 @@
 Hi Everyone
 
+Day 17 of #66DaysOfData challenge
+
+Today I have learnt about "Logestic Regression" from Supervised Machine Learning Algorithm.
+
+-> Logestic Regression- It accomplishes Binary Classification and Multiclass Classification tasks by predicting the probability of an outcome, event, or observation. 
+
+- It is usually applied to a problem statement where these two classification problem is Linearly Separable. 
+
+- The Cost Function/Optimizer must be Maximum to be classified correctly.
+
+- By the use of Sigmoid Function, it removes the affect og the outlier.
+
+
+
+
+
+
+Hi Everyone
+
 Day 11 of #66DaysofData challenge
 
 Today I have studied the concept of 
