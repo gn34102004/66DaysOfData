@@ -1,0 +1,17 @@
+Hi Everyone
+
+Day 18 of #66DaysOfData challenge
+
+Today I have learnt and implemented on Cross Validation and its types.
+
+-> Cross Validation- It is used to evaluate the performance of a model and prevents overfitting. 
+
+Its types are:
+
+-> Leave One Out CV(LOOCV) - Here only One sample  is selected as test data, the remaining will be selected as training data.
+
+-> K Fold CV - Here it divides the given dataset into K equal parts, and taking Test data as one of the K part, and the rest K-1 will be the Training Data.
+
+-> Stratified CV - It is similar to K Fold, but here it will make sure that Number of instances of each class for each experiment in the train-test dataset is taken properly
+
+-> Time Series CV - It splits the data into multiple training and testing sets based on a specific time point.
