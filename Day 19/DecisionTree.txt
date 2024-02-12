@@ -1,0 +1,13 @@
+Hi Everyone 
+
+Day 19 of #66DaysOfData challenge
+
+Today I had learnt about Decision Tree
+
+-> Decision Tree - It is a Supervised ML, and it uses a tree-like model.
+
+-> Entropy - It helps us to measure the purity of the split(subset). It ranges from 0 to 1, in which 1 is the worst case whereas 0 is the best case.
+
+-> Information Gain - It computes the average of all the entropy based on specific split.
+
+-> Gini Impurity - It is computationally efficient as it takes shorter period of time for execution. It ranges from 0 to 0.5, if entropy is 0 to 1.
