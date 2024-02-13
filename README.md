@@ -2,6 +2,33 @@
 
 Hi Everyone 
 
+Day 20 of #66DaysOfData challenge
+
+Today I had learnt and implemented on Performance Metrics for Classification.
+
+They are basically classified into
+
+-> Confusion Matrix - It is a summarized table used to assess the performance of a classification model.
+
+-> FPR(Type 1 Error) - It is the probability of falsely rejecting the null hypothesis.
+
+-> FNR(Type 2 Error) - It's the ratio of false negatives to the total number of positives.
+
+-> Recall(TPR, Sensitivity) - It is calculated by dividing the number of true positives by the number of positive instances.
+
+-> Precision(+ve pred value) - It measures the accuracy of positive predictions
+
+-> Accuracy - It measures the performance of a classifier.
+
+-> F Beta - It's the weighted harmonic mean of precision and recall, with a value between 0 and 1.
+
+-> ROC Curve/ Auc Score - It measures the performance of a classifier model. The area under the ROC curve (AUC) is a measure of the model's overall performance.
+
+-> PR Curve - It's a graph that shows the relationship between precision and recall for different thresholds.
+
+
+Hi Everyone 
+
 Day 19 of #66DaysOfData challenge
 
 Today I had learnt about Decision Tree
