@@ -2,6 +2,22 @@
 
 Hi Everyone 
 
+Day 21 of #66DaysOfData challenge
+
+Today I had learnt about Random Forest
+
+It is a supervised learning algorithm that uses bagging to train the decision trees. Bagging, also known as Bootstrap Aggregation, involves organizing original data into samples called Bootstrap Samples. 
+
+Random forests are used for classification, regression. For classification through majority vote it gives output, and for regression output is calculated through mean, median.
+
+Due to the multiple Decision Tree the model from Low Bias and High Variance gets converted to Low Variance which decreases the Error rate, and increases the Accuracy.
+
+
+
+
+
+Hi Everyone 
+
 Day 20 of #66DaysOfData challenge
 
 Today I had learnt and implemented on Performance Metrics for Classification.
