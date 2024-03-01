@@ -1,0 +1,19 @@
+Hi Everyone
+
+As I was busy with my college work. I am back to the challenge.
+
+Day 22 of #66DaysOfData challenge
+
+Today I had learnt about AdaBoost (Adaptive Boosting)
+
+It is a supervised machine learning boosting technique that combines multiple weak learners into a strong learner. Here the Base Learners are taken as Decision Tree of Stomps(which has only one depth).
+
+Step 1: To find the Sample Weight of the given records.
+
+Step 2: To find the Total Error of the selected stomp.
+
+Step 3: To find the Performance of the Stomp, using the formula.
+
+Now the wrong classified records will increase it's weight and the correct classiefied records will decrease it's weight.
+
+Step 4: To Update the Weight, and create a Normalized weight column. Based on the normailzed values we will divide into buckets and the algorithm will sun upto a specified iteration, again new Stomp will be created from the wrong records based on the least entropy value.
