@@ -2,6 +2,29 @@
 
 Hi Everyone
 
+Day 23 of #66DaysOfData challenge
+
+Today I had learnt about Gradient boosting
+
+It is a supervised machine learning technique that combines weak learners into a single strong learner. In which the algorithm gradually increases its accuracy.
+
+The way that the Gradient boosting works are
+
+Step 1: Compute the Base model which gives the output.
+
+Step 2: Compute the Pseudo Residual.
+
+Step 3: Fit a base learner to the pseudo-residuals.
+
+Step 4: Construct the Decision Tree Sequentially
+
+Step 5: Update the model.
+
+
+
+
+Hi Everyone
+
 As I was busy with my college work. I am back to the challenge.
 
 Day 22 of #66DaysOfData challenge
