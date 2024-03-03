@@ -1,0 +1,41 @@
+Hi Everyone
+
+Day 24 of #66DaysOfData challenge
+
+Today I had learnt about XGBoost(Extreme Gradient Boosting)
+
+It is a boosting algorithm that uses bagging, which trains multiple decision trees and then combines the results. The proccesing steps are:
+
+1. We have a Data.
+
+2. Constructing base leaner.
+
+3. Base learner takes probability & need to compute residual.
+
+4. Constructing Decision as per below 
+
+    - Computing Similarity Weights: ∑(Residual)^2 / ∑P(1-P) + lambda
+
+    - Computing Similarity Weight of Root Node
+
+    - Computing Similarity Weight of left side decision node & its leaf node
+
+    - Computing Similarity Weight of right side decision node & its leaf node
+
+    - Computing Gain = Leaf1 Similarity W + Leaf2 Similarity W - Root Node Similarity W
+
+    - Computing Gain of Root Node & left side of decision node and its leaf node
+
+    - Computing Gain of Root Node & right side of decision node and its leaf node
+
+    - Computing Gain of other combination of features of decision node and its leaf node
+
+    - Selecting the Root Node, Decision node and leaf node have high information gain
+
+5. Predicting the probability = Sigmoid(log(odd) of Prediction of Base Learner + learning rate(Prediction of Decision Tree)).
+
+6. Predicting residual = Previous residual - Predicted Probability
+
+7. Running the iteration from point 2 to 6 and at the end of the iteration, The residual will be the minimal.
+
+8. Test Prediction on the model of iteration have minimal residual.
