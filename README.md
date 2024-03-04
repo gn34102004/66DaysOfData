@@ -2,6 +2,27 @@
 
 Hi Everyone
 
+Day 25 of #66DaysOfData challenge
+
+Today I had learnt about Naive Bayes algorithm
+
+It is a supervised machine learning algorithm that uses Bayes' probability theory to solve classification problems. The Naive Bayes algorithm can be used for both binary and multi-class classification problems.
+
+
+
+The Naive Bayes algorithm works by:
+
+1) Calculating the prior probability for each class label
+
+2) Finding the likelihood probability for each attribute for each class label
+
+3) Calculating the posterior probability using the Bayes formula
+
+4) Classifying based on the highest probability
+
+
+Hi Everyone
+
 Day 24 of #66DaysOfData challenge
 
 Today I had learnt about XGBoost(Extreme Gradient Boosting)
