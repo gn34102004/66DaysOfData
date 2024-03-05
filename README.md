@@ -2,6 +2,18 @@
 
 Hi Everyone
 
+Day 26 of #66DaysOfData challenge
+
+Today I had learnt about Support vector machines(SVM)
+
+It is supervised machine learning algorithms that analyze data for classification and regression analysis. It classify data by finding an optimal line or hyperplane that maximizes the distance between each class in an N-dimensional space. SVMs are particularly good at solving binary classification problems, which require classifying the elements of a data set into two groups. They are also less prone to overfitting than other algorithms such as neural networks. They are also less prone to overfitting than other algorithms such as neural networks. 
+
+
+
+
+
+Hi Everyone
+
 Day 25 of #66DaysOfData challenge
 
 Today I had learnt about Naive Bayes algorithm
