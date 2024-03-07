@@ -2,6 +2,33 @@
 
 Hi Everyone
 
+Day 28 of #66DaysOfData challenge
+
+Today I have implemented K Nearest Neighbour(KNN).
+
+By importing Libraries such as:
+
+-> pandas: Used for data manipulation and analysis.
+
+-> seaborn & matplotlib.pyplot: Libraries for data visualization.
+
+-> numpy: Essential library for numerical computing in Python.
+
+-> StandardScaler: Used to standardize features by removing the mean and scaling to unit variance.
+
+-> KNeighborsClassifier: Implementation of the K Nearest Neighbors algorithm for classification.
+
+-> train_test_split: Function to split arrays or matrices into random train and test subsets.
+
+-> cross_val_score: Function for evaluating a score by cross-validation.
+
+-> classification_report and confusion_matrix: Functions to evaluate the performance of a classification model.
+
+
+
+
+Hi Everyone
+
 Day 27 of #66DaysOfData challenge
 
 Today I had learnt about k-nearest neighbors (KNN)
