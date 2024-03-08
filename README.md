@@ -1,5 +1,22 @@
 # 66DaysOfData
 
+
+Hi Everyone
+
+Day 29 of #66DaysOfData challenge
+
+Today I have implemented SVM Kernal.
+
+-> NumPy (np): Handles arrays and mathematical operations efficiently.
+
+-> Matplotlib (plt): Creates visualizations such as scatter plots.
+
+-> Pandas (pd): Works with structured data in tabular form using DataFrames.
+
+->Plotly Express (px): Creates interactive and high-quality visualizations, particularly useful for 3D scatter plots.
+
+-> scikit-learn (train_test_split, SVC): Provides machine learning tools for data splitting (train_test_split) and training Support Vector Machine classifiers (SVC).
+
 Hi Everyone
 
 Day 28 of #66DaysOfData challenge
