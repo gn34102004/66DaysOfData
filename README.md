@@ -3,6 +3,27 @@
 
 Hi Everyone
 
+Day 33 of #66DaysOfData challenge
+
+Today I learnt about Under sampling, Over sampling
+
+Undersampling:
+
+Involves removing samples from the majority class. It can improve model performance and fairness, and is a crucial data processing step. Undersampling is suggested when the amount of data collected is larger than ideal.
+
+Oversampling:
+
+Involves replicating samples of the minority class. It can be implemented by duplicating random records from the minority class. Oversampling is generally preferable, as undersampling can result in the loss of important data.
+
+
+
+
+
+
+
+
+Hi Everyone
+
 Day 29 of #66DaysOfData challenge
 
 Today I have implemented SVM Kernal.
