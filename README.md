@@ -1,5 +1,16 @@
 # 66DaysOfData
 
+Hi Everyone
+
+Day 34 of #66DaysOfData challenge
+
+Today I implemented on Principal Component Analysis (PCA)
+
+It is an unsupervised learning method which reduces the dimensionality, by transforming high-dimensional datasets into lower-dimensional spaces while retaining as much of the original data's variability as possible.
+
+This reduction can decrease the time needed to train a machine learning model and helps avoid overfitting in a model. 
+
+
 
 Hi Everyone
 
