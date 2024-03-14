@@ -1,0 +1,31 @@
+Hi Everyone
+
+Day 35 of #66DaysOfData challenge
+
+Today I learnt about Clustering techiniques such as K Means, Hierarchical and DBSCAN Clustering.
+
+-> K Means Clustering :- It is an unsupervised machine learning algorithm that groups data into clusters. The algorithm is
+
+1) Inputting the number of clusters, K, to generate
+
+2) Randomly selecting K data points and assigning each to a cluster
+
+3) Calculating the cluster centroids
+
+4) Repeating the steps until the optimal centroid is found 
+
+
+
+-> Hierarchical Clustering :- It  is an unsupervised machine learning algorithm that groups unlabeled datasets into clusters. The clusters are represented in a tree-like structure called a dendrogram. To find the Clusters, the longest vertical line such that it doesn't passes through the horizontal line.
+
+
+
+-> DBSCAN Clustering :- It is a machine learning algorithm that uses density to create clusters of data points. It automatically determines clusters based on the density of data points without requiring the user to specify the number of clusters. The main parameters are
+
+1) Epsilon - It is value the radius of the circle is taken.
+
+2) minPoints - It is the minimum number of data points required inside the circle to be classified as a Core Point.
+
+If it doesn't satisfy the minimum point and has a core point as the data point it is classified as Border Points.
+
+If it doesn't satisfy both minimum points and core points it is classified as Noise Points. These are the outliers which won't be considered as clusters.
